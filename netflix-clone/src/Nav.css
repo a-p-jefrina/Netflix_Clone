@@ -1,0 +1,28 @@
+.nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 20px;
+  height: 30px;
+  z-index: 1; /*scroll listener*/
+  transition: all 0.5s;
+  transition-timing-function: ease-in;
+}
+
+.nav__black {
+  background-color: #111;
+}
+
+.nav_logo {
+  position: fixed; /*to aoid boundary out*/
+  left: 20px; /*to aoid boundary out*/
+  width: 80px;
+  object-fit: contain;
+}
+
+.nav_avatar {
+  position: fixed; /*to aoid boundary out*/
+  right: 20px; /*to aoid boundary out*/
+  width: 30px;
+  object-fit: contain;
+}

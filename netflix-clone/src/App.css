@@ -1,0 +1,7 @@
+* {
+  margin: 0; /*give this browser has imaginary margin*/
+}
+
+.app {
+  background-color: #111;
+}
