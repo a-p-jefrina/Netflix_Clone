@@ -66,12 +66,14 @@ Ensure you have the following installed:
   |-- components
   |     |-- Row.js
   |     |-- Banner.js
+  |     |-- Nav.js
   |-- requests.js
   |-- App.js
 ``` 
 - **`Row.js`**: Component for displaying movie rows.
 - **`Banner.js`**: Component for the featured movie banner.
 - **`requests.js`**: TMDb API endpoints and configurations.
+- **`Nav.js`**: Component for Navigation Bar.
 
 ---
 
