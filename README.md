@@ -69,6 +69,8 @@ Ensure you have the following installed:
   |     |-- Nav.js
   |-- requests.js
   |-- App.js
+  |-- axios.js
+  |-- index.js
 ``` 
 - **`Row.js`**: Component for displaying movie rows.
 - **`Banner.js`**: Component for the featured movie banner.
@@ -109,6 +111,11 @@ After creating the app with `create-react-app`, remove the following files:
 - `logo.svg`
 
 ---
+
+## Hosting Link
+
+https://netflix-clone-75e1d.web.app/
+
 
 ## License
 
