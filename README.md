@@ -114,7 +114,7 @@ After creating the app with `create-react-app`, remove the following files:
 
 ## Hosting Link
 
-https://netflix-clone-75e1d.web.app/
+Contact me through Mail for Link
 
 
 ## License
