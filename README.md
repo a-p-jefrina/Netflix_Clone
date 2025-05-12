@@ -116,6 +116,10 @@ After creating the app with `create-react-app`, remove the following files:
 
 Contact me through Mail for Link
 
+## Screenshots
+![n1](https://github.com/user-attachments/assets/b992319a-c097-44b4-93d9-f5d4da2a490c)
+![n2](https://github.com/user-attachments/assets/5a8c59b3-f6b9-40bb-916a-f318b6d1a883)
+![n3](https://github.com/user-attachments/assets/93775def-eb8e-4396-980b-4d0d2bd63714)
 
 ## License
 
